@@ -1,0 +1,25 @@
+.image-gallery {
+    text-align: center;
+}
+
+.images-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-item {
+    margin: 20px;
+    text-align: center;
+}
+
+.image-item img {
+    width: 300px; /* Adjust the size as needed */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    margin-top: 10px;
+}

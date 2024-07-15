@@ -1,0 +1,17 @@
+.top-three-container {
+    text-align: center;
+}
+
+.top-image-item {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
+
+.top-image {
+    width: 300px;  /* Adjust the width as needed */
+    height: auto;  /* Maintain the aspect ratio */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
